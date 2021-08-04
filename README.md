@@ -1,4 +1,4 @@
-### Hi there I'm Naïla Mbabazi👋
+### Hi there I'm Naïla 👋
 
 A UX-researcher who decided to learn programming from scratch at 42Paris
 
